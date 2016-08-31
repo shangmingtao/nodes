@@ -1,0 +1,4 @@
+1. ubuntu关闭防火墙 : sudo ufw disable
+2. ubuntu防火墙默认是关闭的 
+3. ubuntu无法打开22端口 
+   解决办法:sudo apt-get install openssh-server (安装openssh-server)
